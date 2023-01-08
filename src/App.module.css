@@ -1,0 +1,33 @@
+.glavna {
+  
+  justify-content: center;
+  align-items: flex-start;
+  background-color: black;
+  height: 250px;
+}
+
+
+.buttoni {
+  margin-top: 10%;
+  display: flex;
+  justify-items: stretch;
+  
+  
+}
+
+.dugme {
+  margin: 10px;
+}
+
+.pogodak {
+  color: lightgreen;
+  justify-content: center;
+margin-left: 35%;
+}
+
+.promasaj {
+  color: lightcoral;
+  justify-content: center;
+  margin-left: 35%;
+}
+
